@@ -13,15 +13,18 @@ GitHub tag GitHub Releases (by Release) GitHub All Releases
 
 >>[![license](https://img.shields.io/github/license/marcus-sacramento-redmine/redmine_portfolio_management.svg?style=flat-square)](LICENSE) 
 
-Funcionalidades ([Changelog do Projeto](CHANGELOG.md)):
-* Agrupamento de Projetos em visão simplificada por Portfolio
-* Filtro Simples e ordenação
-* Paginação para permitir melhor visualização dos projetos
-* Definição de Data de Início e Data Fim do Projeto por meio das datas das tarefas:
-    * Data Início: Menor data do campo 'Início' das tarefas associadas diretamente ao projeto
-    * Data Fim: Maior data do campo 'Data prevista' das tarefas associadas diretamente ao projeto
-* Cálculo de Percentual de Conclusão do Projeto:
-    * Percentual calculado de acordo com o total de tarefas marcadas como concluídas pelo total de tarefas do projeto
+### Features  ([Changelog do Projeto](CHANGELOG.md)):
+* Grouping of Projects in a simplified Portfolio view
+* Simple filtering and sorting
+* Pagination for better project visibility
+* Definition of Project Start and End Dates based on task dates:
+
+    * Start Date: Earliest date in the 'Start' field of tasks directly associated with the project
+    * End Date: Latest date in the 'Due Date' field of tasks directly associated with the project
+
+* Calculation of Project Completion Percentage:
+
+    * Calculated based on the total number of completed tasks over the total tasks in the project
 
 >> ![CF_Portfolio](Portfolio_view.png)
 
