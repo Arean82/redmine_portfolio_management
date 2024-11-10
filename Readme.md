@@ -54,12 +54,12 @@ SCM:
 
 ***
 
-### Instalação do Plugin
+### Plugin Installation
 
-1. Clonar o projeto através do git: ```https://github.com/marcus-sacramento-redmine/redmine_portfolio_management.git ``` no diretório ```redmine/plugins``` da instalação do Redmine
-2. Executar o comando ```bundle install``` para baixar as dependências do projeto.
-3. Executar o comando ```rake redmine:plugins:migrate RAILS_ENV=production``` para realizar os ajustes na migração do plugin.
-4. Reiniciar o  serviço do Apache:```service httpd restart```
+1.    Clone the project using git: https://github.com/marcus-sacramento-redmine/redmine_portfolio_management.git into the redmine/plugins directory of your Redmine installation.
+2.    Run the command bundle install to download the project dependencies.
+3.    Run the command rake redmine:plugins:migrate RAILS_ENV=production to apply the plugin migration.
+4.   Restart the Apache service: service httpd restart
 
 ***
 
