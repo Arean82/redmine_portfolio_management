@@ -1,27 +1,25 @@
-Como desenvolver para este projeto?
+How to Develop for This Project?
 ============
 
-Política de Mensagem de Commit's
+Commit Message Policy
 -------
 
-Para Maior Organização, se estiver contribuindo para este projeto porcure utilizar um padrão de mensagens de commit's para deixar claro a ação que está sendo realizada:
-* Issue #xxx - Correção da funcionalidade xxxxxxxxx
-* Issue #xxx - Desenvolvimento da funcionalidade xxxxxxxxx
-* [Funcionalidade y] - Desenvolvimento de funcionalidade para ...
+For better organization, if you are contributing to this project, please follow a commit message pattern to clearly state the action being performed:
 
-Caso os commits se encontram errados corrija a última revisão ou use o commando ```git rebase -i``` 
+*    Issue #xxx - Fixing functionality xxxxxxxxx
+*    Issue #xxx - Developing functionality xxxxxxxxx
+*    [Feature y] - Developing feature for ...
 
+If there are errors in the commits, correct the last revision or use the command ```git rebase -i``` 
 
-Licença de Software
+Software License
 ------
 
-Este programa é um software livre; você pode redistribuí-lo e/ou modificá-lo dentro dos termos da Licença Pública Geral GNU como 
-publicada pela Fundação do Software Livre (FSF); na versão 3 da Licença, ou (na sua opinião) qualquer versão.
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation (FSF), either version 3 of the License, or (at your option) any later version.
 
-Este programa é distribuído na esperança de que possa ser útil, mas SEM NENHUMA GARANTIA; sem uma garantia implícita de ADEQUAÇÃO
-a qualquer MERCADO ou APLICAÇÃO EM PARTICULAR. Veja a Licença Pública Geral GNU para maiores detalhes, [localizada neste repositório](LICENSE).
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details, [localizada neste repositório](LICENSE).
 
 Dúvidas
 -------
 
-Em caso de Dúvidas favor verificar nossa wiki: https://github.com/marcus-sacramento-redmine/redmine_portfolio_management/wiki
+In case of questions, please check our wiki: https://github.com/Arean82/redmine_portfolio_management/wiki[https://github.com/Arean82/redmine_portfolio_management/wiki]
