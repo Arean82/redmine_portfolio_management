@@ -73,6 +73,7 @@ SCM:
     >> ![CF_Portfolio](Portfolio_project_configuration.png)
 
 
+
 ### Plugin Removal
 
 To remove the plugin, delete the plugin directory from ```redmine/plugins``` in the Redmine installation and restart the Apache service:```service httpd restart```
