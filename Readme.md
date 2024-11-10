@@ -57,20 +57,19 @@ SCM:
 
 >> The plugin requires certain custom fields to be configured for Projects in Redmine. The values in these Custom Fields will be displayed on the plugin’s main page.
 
-    Configure a Custom Field for the Project Portfolio. This field should be of the List type and not accept multiple values. The possible values represent the names to assign to Project Portfolios:
+* Configure a Custom Field for the Project Portfolio. This field should be of the List type and not accept multiple values. The possible values represent the names to assign to Project Portfolios:
 
-    >> ![CF_Portfolio](Portfolio_cf_Portfolio.png)
+>> ![CF_Portfolio](Portfolio_cf_Portfolio.png)
 
-    Configure a Custom Field for the Project Manager. This field should be of the User type and not accept multiple values. Define the roles allowed as project managers:
+* Configure a Custom Field for the Project Manager. This field should be of the User type and not accept multiple values. Define the roles allowed as project managers:
 
-    >> ![CF_Portfolio](Portfolio_cf_Responsavel.png)
+>> ![CF_Portfolio](Portfolio_cf_Responsavel.png)
 
+* In Project Settings, members must be associated with the profile indicated in the custom field 'Project Manager' before setting the plugin values. Update the Redmine page to load the configurations.
 
-    In Project Settings, members must be associated with the profile indicated in the custom field 'Project Manager' before setting the plugin values. Update the Redmine page to load the configurations.
+* After adding members, simply define the Portfolio and the member who will be responsible for the project. If the Portfolio field is left blank, the project will not be displayed in the plugin:
 
-    After adding members, simply define the Portfolio and the member who will be responsible for the project. If the Portfolio field is left blank, the project will not be displayed in the plugin:
-
-    >> ![CF_Portfolio](Portfolio_project_configuration.png)
+>> ![CF_Portfolio](Portfolio_project_configuration.png)
 
 
 
