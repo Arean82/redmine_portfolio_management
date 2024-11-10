@@ -26,12 +26,12 @@ Funcionalidades ([Changelog do Projeto](CHANGELOG.md)):
 >> ![CF_Portfolio](Portfolio_view.png)
 
 ***
-Attention
+### Attention
 
-    Read the installation instructions carefully;
-    This is an OpenSource project under license;
-    This project was developed as an experience in Ruby, so fixes and/or suggestions may take some time depending on the developer’s availability;
-    To learn how to contribute to the project, please read the Contributing Guide and Project Wiki
+* Read the installation instructions carefully;
+* This is an OpenSource project under license;
+* This project was developed as an experience in Ruby, so fixes and/or suggestions may take some time depending on the developer’s availability;
+* To learn how to contribute to the project, please read the Contributing Guide and Project Wiki
 
 ***
 
