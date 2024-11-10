@@ -1,6 +1,6 @@
 #/bin/bash
 
-set -e
+set -e 
 
 if [[ ! "$TESTSPACE" = /* ]] ||
    [[ ! "$PATH_TO_REDMINE" = /* ]] ||
