@@ -5,15 +5,7 @@ GitHub tag GitHub Releases  (by Release) GitHub All Releases
 >You can test it for free on our [Redmine demo](http://redmine-marcusacramento.rhcloud.com/) with the username and password: visitor
 
 
->>[![Build Status](https://travis-ci.org/marcus-sacramento-redmine/redmine_portfolio_management.svg?branch=master)](https://travis-ci.org/marcus-sacramento-redmine/redmine_portfolio_management)
 
->>[![Codacy Badge](https://api.codacy.com/project/badge/grade/a1daedb12e2c4b908b57b42a55835d1d)](https://www.codacy.com/app/marcus-vinicius-cardozo/redmine_portfolio_management) [![Issue Count](https://codeclimate.com/github/marcus-sacramento-redmine/redmine_portfolio_management/badges/issue_count.svg)](https://codeclimate.com/github/marcus-sacramento-redmine/redmine_portfolio_management) [![Issues](https://img.shields.io/github/issues/marcus-sacramento-redmine/redmine_portfolio_management.svg?style=flat-square)](https://github.com/marcus-sacramento-redmine/redmine_portfolio_management/issues) [![Stories in Ready](https://badge.waffle.io/marcus-sacramento-redmine/redmine_portfolio_management.svg?label=ready&title=Ready)](http://waffle.io/marcus-sacramento-redmine/redmine_portfolio_management) [![Stories in Ready](https://badge.waffle.io/marcus-sacramento-redmine/redmine_portfolio_management.svg?label=in test&title=in%20test)](http://waffle.io/marcus-sacramento-redmine/redmine_portfolio_management)
-
->>[![GitHub commits](https://img.shields.io/github/commits-since/marcus-sacramento-redmine/redmine_portfolio_management/v0.0.1.svg?style=flat-square)](https://github.com/marcus-sacramento-redmine/redmine_portfolio_management/commits/master) 
-
->>[![license](https://img.shields.io/github/license/marcus-sacramento-redmine/redmine_portfolio_management.svg?style=flat-square)](LICENSE) 
-
-### Features  ([Changelog of Project](CHANGELOG.md)):
 * Grouping of Projects in a simplified Portfolio view
 * Simple filtering and sorting
 * Pagination for better project visibility
