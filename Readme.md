@@ -26,11 +26,12 @@ Funcionalidades ([Changelog do Projeto](CHANGELOG.md)):
 >> ![CF_Portfolio](Portfolio_view.png)
 
 ***
-## Atenção
-* **_Leia atentamente as instruções para instalação;_**
-* **_Este é um projeto OpenSource sob [licença](LICENSE);_**
-* **_Este projeto foi desenvolvido como experiência sobre a linguagem Ruby, portanto eventuais correções e/ou susgestões poderão ser realizadas com certa demora a depender do tempo disponível do desenvolvedor;_**
-* **_Sobre como contribuir para o desenvolvimento do projeto, favor ler o [Contributing Guide](CONTRIBUTING.md) e a Wiki do Projeto_**
+Attention
+
+    Read the installation instructions carefully;
+    This is an OpenSource project under license;
+    This project was developed as an experience in Ruby, so fixes and/or suggestions may take some time depending on the developer’s availability;
+    To learn how to contribute to the project, please read the Contributing Guide and Project Wiki
 
 ***
 
