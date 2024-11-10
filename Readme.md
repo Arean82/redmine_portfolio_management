@@ -1,9 +1,6 @@
 # Redmine Portfolio Management plugin 
 [![GitHub tag](https://img.shields.io/github/tag/marcus-sacramento-redmine/redmine_portfolio_management.svg?style=flat-square)](https://github.com/marcus-sacramento-redmine/redmine_portfolio_management/tags) [![Github Releases (by Release)](https://img.shields.io/github/downloads/marcus-sacramento-redmine/redmine_portfolio_management/v1.0.0/total.svg?style=flat-square)](https://github.com/marcus-sacramento-redmine/redmine_portfolio_management/releases) [![Github All Releases](https://img.shields.io/github/downloads/marcus-sacramento-redmine/redmine_portfolio_management/total.svg?style=flat-square)](https://github.com/marcus-sacramento-redmine/redmine_portfolio_management/releases)
 
-GitHub tag GitHub Releases  (by Release) GitHub All Releases
->You can test it for free on our [Redmine demo](http://redmine-marcusacramento.rhcloud.com/) with the username and password: visitor
-
 
 
 * Grouping of Projects in a simplified Portfolio view
