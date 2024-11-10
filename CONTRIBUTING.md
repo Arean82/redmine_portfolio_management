@@ -22,4 +22,4 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 Dúvidas
 -------
 
-In case of questions, please check our wiki: https://github.com/Arean82/redmine_portfolio_management/wiki[https://github.com/Arean82/redmine_portfolio_management/wiki]
+In case of questions, please check our wiki: https://github.com/Arean82/redmine_portfolio_management/wiki
