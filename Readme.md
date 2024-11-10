@@ -63,25 +63,29 @@ SCM:
 
 ***
 
-### Configuração do Plugin
 
->> O Plugin exige que sejam configurados alguns campos customizados para os Projetos no Redmine. Os valores nestes Campos Customizados serão exibidos na página principal do plugin
+### Plugin Configuration
 
-* Configure o Campo Customizado para o Portfolio do Projeto. Esse campo deverá ser do formato Lista e **não** aceitar múltiplos valores. Nos possíveis valores se encontrarão os nomes a serem dados aos Portfolios de Projeto:
+>> The plugin requires certain custom fields to be configured for Projects in Redmine. The values in these Custom Fields will be displayed on the plugin’s main page.
 
->> ![CF_Portfolio](Portfolio_cf_Portfolio.png)
+    Configure a Custom Field for the Project Portfolio. This field should be of the List type and not accept multiple values. The possible values represent the names to assign to Project Portfolios:
 
-* Configure o Campo Customizado para o Responsável pelo Projeto. Esse campo deverá ser do formato Usuário e **não** aceitar múltiplos valores. Defina os papéis que poderão ser responsáveis pelo projeto:
+    >> ![CF_Portfolio](Portfolio_cf_Portfolio.png)
 
->> ![CF_Portfolio](Portfolio_cf_Responsavel.png)
+    Configure a Custom Field for the Project Manager. This field should be of the User type and not accept multiple values. Define the roles allowed as project managers:
 
-* Nas Configurações do Projeto deve-se sempre haver membros associados ao perfil indicado no campo customizado 'Responsável pelo Projeto' antes da configuração dos valores associados ao plugin. Deve-se atualizar a página do Redmine para que as configurações sejam carregadas.
+    >> ![CF_Portfolio](Portfolio_cf_Responsavel.png)
 
-* Após adicionar os membros basta definir o Portfolio e o membro que será o responsável pelo projeto. Caso fique em branco o campo de Portfolio, o projeto não será exibido no plugin:
 
->> ![CF_Portfolio](Portfolio_project_configuration.png)
+    In Project Settings, members must be associated with the profile indicated in the custom field 'Project Manager' before setting the plugin values. Update the Redmine page to load the configurations.
 
-### Remoção do Plugin
+    After adding members, simply define the Portfolio and the member who will be responsible for the project. If the Portfolio field is left blank, the project will not be displayed in the plugin:
 
-Para remover o plugin basta remover o diretório do plugin no diretório ```redmine/plugins``` da instalação do Redmine, e reiniciar o  serviço do Apache:```service httpd restart```
+    >> ![CF_Portfolio](Portfolio_project_configuration.png)
+
+
+### Plugin Removal
+
+To remove the plugin, delete the plugin directory from ```redmine/plugins``` in the Redmine installation and restart the Apache service:```service httpd restart```
+
 
